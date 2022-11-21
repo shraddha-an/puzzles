@@ -14,3 +14,8 @@ Solving problems from Leetcode & Code Signal to improve my Python programming.
 5. Given an array of unique integers, make the array consecutive, then return the additional number of integers added.
 
 6. Almost Increasing Sequence: Given a sequence of integers as an array, determine whether it is possible to obtain a strictly increasing sequence by removing no more than one element from the array.
+
+7. Matrix Element Sum: Given matrix, a rectangular matrix of integers, where each value represents the cost of the room, your task is to return the total sum of all rooms available for occupancy. Free rooms & the rooms below the free rooms are unfit for occupancy.
+
+
+8. All Longest Strings: Given an array of strings, return another array containing all of its longest strings.
