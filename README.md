@@ -19,3 +19,8 @@ Solving problems from Leetcode & Code Signal to improve my Python programming.
 
 
 8. All Longest Strings: Given an array of strings, return another array containing all of its longest strings.
+
+9. Common Character Count: Given two strings, find the number of common characters between them.
+
+10. Lucky Ticket: Ticket numbers usually consist of an even number of digits. A ticket number is considered lucky if the sum of the first half of the digits is equal to the sum of the second half.
+
