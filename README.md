@@ -24,3 +24,6 @@ Solving problems from Leetcode & Code Signal to improve my Python programming.
 
 10. Lucky Ticket: Ticket numbers usually consist of an even number of digits. A ticket number is considered lucky if the sum of the first half of the digits is equal to the sum of the second half.
 
+11. Sort by Height: Some people are standing in a row in a park. There are trees between them which cannot be moved. Your task is to rearrange the people by their heights in a non-descending order without moving the trees. People can be very tall!
+
+12. String in Parantheses: Given a string containing () enclosing another string; reverse the contents of the () and return the string. Eg:  foo(bar)baz(blim) --> foorabbazmilb
