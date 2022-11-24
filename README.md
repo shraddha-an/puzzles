@@ -27,3 +27,9 @@ Solving problems from Leetcode & Code Signal to improve my Python programming.
 11. Sort by Height: Some people are standing in a row in a park. There are trees between them which cannot be moved. Your task is to rearrange the people by their heights in a non-descending order without moving the trees. People can be very tall!
 
 12. String in Parantheses: Given a string containing () enclosing another string; reverse the contents of the () and return the string. Eg:  foo(bar)baz(blim) --> foorabbazmilb
+
+13. Alternating Sums: You are given an array of positive integers - the weights of the people. The first person goes into team 1, the second goes into team 2, the third goes into team 1 again, the fourth into team 2, and so on. Return an array of two integers, where the first element is the total weight of team 1, and the second element is the total weight of team 2 after the division is complete.
+
+14. Border to Rectangular Matrix: Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+
+15. Array Similarity?: Two arrays are called similar if one can be obtained from another by swapping at most one pair of elements in one of the arrays. Given two arrays, check whether they are similar.
