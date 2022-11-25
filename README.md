@@ -33,3 +33,5 @@ Solving problems from Leetcode & Code Signal to improve my Python programming.
 14. Border to Rectangular Matrix: Given a rectangular matrix of characters, add a border of asterisks(*) to it.
 
 15. Array Similarity?: Two arrays are called similar if one can be obtained from another by swapping at most one pair of elements in one of the arrays. Given two arrays, check whether they are similar.
+
+16. Array Change: Given an array of integers, on each move you are allowed to increase exactly one of its element by one. Find the minimal number of moves required to obtain a strictly increasing array.
